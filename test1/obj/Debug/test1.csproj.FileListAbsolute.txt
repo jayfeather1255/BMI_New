@@ -1,0 +1,13 @@
+C:\git\test1\test1\test1\bin\Debug\test1.exe.config
+C:\git\test1\test1\test1\bin\Debug\test1.exe
+C:\git\test1\test1\test1\bin\Debug\test1.pdb
+C:\git\test1\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\git\test1\test1\test1\obj\Debug\test1.exe
+C:\git\test1\test1\test1\obj\Debug\test1.pdb
+C:\Users\信如\Desktop\學校\程式\BMI-master\test1\bin\Debug\test1.exe.config
+C:\Users\信如\Desktop\學校\程式\BMI-master\test1\bin\Debug\test1.exe
+C:\Users\信如\Desktop\學校\程式\BMI-master\test1\bin\Debug\test1.pdb
+C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.exe
+C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.pdb
