@@ -11,3 +11,10 @@ C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.csprojRes
 C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
 C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.exe
 C:\Users\信如\Desktop\學校\程式\BMI-master\test1\obj\Debug\test1.pdb
+C:\Users\信如\Desktop\學校\程式\git\2018-03-21 BMI計算機\BMI-master\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-03-21 BMI計算機\BMI-master\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-03-21 BMI計算機\BMI-master\test1\obj\Debug\test1.exe
+C:\Users\信如\Desktop\學校\程式\git\2018-03-21 BMI計算機\BMI-master\test1\obj\Debug\test1.pdb
+C:\Users\信如\Desktop\學校\程式\git\2018-03-21 BMI計算機\BMI-master\test1\bin\Debug\test1.exe.config
+C:\Users\信如\Desktop\學校\程式\git\2018-03-21 BMI計算機\BMI-master\test1\bin\Debug\test1.exe
+C:\Users\信如\Desktop\學校\程式\git\2018-03-21 BMI計算機\BMI-master\test1\bin\Debug\test1.pdb

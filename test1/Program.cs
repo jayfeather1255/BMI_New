@@ -10,6 +10,7 @@ namespace test1
     {
         static void Main(string[] args)
         {
+            // 將視窗標題設為BMI計算機
             Console.Title = "BMI計算機";
 
             Console.BackgroundColor = ConsoleColor.White;
@@ -33,8 +34,8 @@ namespace test1
             // 判斷BMI
             if (BMI < 18.5)
             {
-                if(BMI<16.5)
-                    Console.Write("※符合免兵役標準")
+                if (BMI < 16.5)
+                    Console.Write("※符合免兵役標準");
                 Console.ForegroundColor = ConsoleColor.Gray;
                 Console.WriteLine("您的體重過輕!:OOOOOOOO"+"\n"+"快多吃點飯飯!");
             }                
